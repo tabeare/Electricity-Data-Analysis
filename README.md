@@ -29,4 +29,4 @@ The second map (with the time slider) took me much more time than the first map,
 ## Resources
 The dataset comes from: https://unstats.un.org/unsd/envstats/qindicators.cshtml
 
-For implementing the two maps, I have manly relied on a blogpost for the first map: https://vverde.github.io/blob/interactivechoropleth.html ; and the example notebook for the TimeSliderChoropleth plugin for the second map: https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/TimeSliderChoropleth.ipynb
+For implementing the two maps, I have mainly relied on a blogpost for the first map: https://vverde.github.io/blob/interactivechoropleth.html ; and the example notebook for the TimeSliderChoropleth plugin for the second map: https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/TimeSliderChoropleth.ipynb
